@@ -10,6 +10,7 @@
     <NUnitPath>$(MSBuildProjectDirectory)\lib\Nunit</NUnitPath>
     <ZipCmd>$(MSBuildProjectDirectory)\lib\7-Zip\7z.exe</ZipCmd>
     <PackageDir>$(DistDir)\ebDataLayer</PackageDir>
+	<PackageDir>$(DistDir)\ebDL</PackageDir>
   </PropertyGroup>
 
   <ItemGroup>
